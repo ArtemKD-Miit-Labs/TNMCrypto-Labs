@@ -4,3 +4,11 @@
 1. [Алгоритм Карацубы](KaratsubaAlgorithm)
 2. [Алгоритм Тоома-Кука](Toom-CookAlgorithm)
 3. [Алгоритм Шёнхаге-Штрассена](Schonhage-StrassenAlgorithm)
+
+## Тесты на простоту
+1. [Тест Ферма](FermatTest)
+2. [Тест Миллера-Рабина](MillerRabinTest)
+3. [Тест Соловея-Штрассена](SolovayStrassenTest)
+
+## Генерация простых чисел
+[Генерация по ГОСТу 1994 года](GOSTPrimeGenerator)
